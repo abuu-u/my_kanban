@@ -1,0 +1,14 @@
+{
+  "usernameHint": "Введите имя",
+  "passwordHint": "Введите пароль",
+  "getMinChars": "Минимум {count} символов",
+  "@getMinChars": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "login": "Войти",
+  "serverError": "Ошибка сервера",
+  "getTab": "{tab, select, onHold{В ожидании} inProgress{В процессе} needsReview{На проверку} approved{Одобрено} other{Other}}",
+  "cardsEmpty": "Здесь нет карточек"
+}

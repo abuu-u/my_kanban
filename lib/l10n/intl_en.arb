@@ -1,0 +1,14 @@
+{
+  "usernameHint": "Enter your username",
+  "passwordHint": "Enter your password",
+  "getMinChars": "Minimum is {count} characters",
+  "@getMinChars": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "login": "Log in",
+  "serverError": "Server error",
+  "getTab": "{tab, select, onHold{On hold} inProgress{In progress} needsReview{Needs review} approved{Approved} other{Other}}",
+  "cardsEmpty": "There are no cards"
+}
